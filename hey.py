@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(page_title="Fatima's App",
-                   page_icon=":pink_heart:",
+                   page_icon=":heart:",
                    layout="centered")
 
 # Display a header

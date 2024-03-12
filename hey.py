@@ -1,5 +1,9 @@
 import streamlit as st
 
+st.set_page_config(page_title="Fatima's App",
+                   page_icon=":pink_heart:",
+                   layout="centered")
+
 # Set the page title
 st.title('Welcome to My Simple App')
 

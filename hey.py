@@ -4,8 +4,8 @@ st.set_page_config(page_title="Fatima's App",
                    page_icon=":pink_heart:",
                    layout="centered")
 
-# Set the page title
-st.title('Welcome to My Simple App')
+# Display a header
+st.markdown("# Welcome to my simple app :)")
 
 # Input for the user's name
 name = st.text_input('What is your name?', '')
